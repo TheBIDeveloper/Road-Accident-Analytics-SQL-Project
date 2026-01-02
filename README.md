@@ -17,29 +17,6 @@ Authorities need analytical insights to understand:
 This project addresses these challenges using SQL Server and relational data analysis.
 
 
-## 🗂 Project Structure
-
-Road-Accident-Analytics-SQL-Project/
-│
-├── schema/
-│ └── table_creation.sql
-│
-├── data/
-│ ├── raw/
-│ │ └── README.md
-│ └── cleaned/
-│ └── insert_data.sql
-│
-├── queries/
-│ ├── accident_analysis_queries.sql
-│ └── accident_advanced_queries.sql
-│
-├── results/
-│ └── analysis_summary.md
-│
-└── README.md
-
-
 ## 🛠 Tools & Technologies
 - **SQL Server**
 - Relational Database Design
